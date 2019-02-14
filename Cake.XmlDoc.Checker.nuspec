@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Cake.XmlDoc.Checker</id>
+        <version>1.0.2</version>
+        <title>Cake.XmlDoc.Checker</title>
+        <authors>Eugene Nikitenko</authors>
+        <owners>Eugene Nikitenko</owners>
+        <projectUrl>https://github.com/dotnetaddicted/cake-xmldoc-checker</projectUrl>           
+        <iconUrl>https://raw.githubusercontent.com/dotnetaddicted/cake-xmldoc-checker/master/logo.png</iconUrl>
+        <copyright>Copyright © Eugene Nikitenko 2019. All Rights Reserved.</copyright>
+        <license type="file">license\license.txt</license>
+        <description>CakeBuild extension for checking DLL's public members xml documentation completeness.</description>        
+        <summary>CakeBuild extension for checking DLL's public members xml documentation completeness.</summary>
+        <tags>CakeBuild Script XmlDoc DocsByReference</tags>
+        
+        <dependencies>            
+            <dependency id="Cake.Core" version="0.32.1" />  
+        </dependencies>
+
+    </metadata>
+</package>
